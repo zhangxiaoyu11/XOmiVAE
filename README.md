@@ -1,7 +1,12 @@
 # XOmiVAE
 
-This code explains the unsupervised and supervised part of the gene expression variant of OmiVAE, a model developed by Zhang et al., (2019). Paper [link](httpsarxiv.org/abs/1908.06278).
+**An interpretable deep learning model for cancer classification using high-dimensional omics data**
 
-This code adjusts the Deep SHAP explainer model developed by Lundberg et al., (2017). Paper [link](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions). The adjustments enables the Deep SHAP library to explain the latent space of OmiVAE.
+### Introduction
+-  XOmiVAE is a novel interpretable deep learning model for cancer classification using high-dimensional omics data.
+-  XOmiVAE provides contribution of each input molecular feature and latent dimension to the prediction.
+-  XOmiVAE is able to explain unsupervised clusters produced by the VAE clustering part of the network.
+-  XOmiVAE explanations of the downstream prediction were evaluated by biological annotation and literature, which aligned with current domain knowledge.
+-  XOmiVAE shows great potential for novel biomedical knowledge discovery from deep learning models.
 
-For example of how to implement the code, see main.py. The explainable functions are in omiShapExplainer.py.
+For examples of how to implement the code, see main.py. The explainable functions are in omiShapExplainer.py.
