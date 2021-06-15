@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/zhangxiaoyu11/XOmiVAE.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zhangxiaoyu11/XOmiVAE/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/zhangxiaoyu11/XOmiVAE.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/zhangxiaoyu11/XOmiVAE/network/members)
 
-**XOmiVAE: An interpretable deep learning model for cancer classification using high-dimensional omics data**
+**XOmiVAE: An Interpretable Deep Learning Model for Cancer Classification Using High-dimensional Omics Data**
 
 **Xiaoyu Zhang** (x.zhang18@imperial.ac.uk)
 
