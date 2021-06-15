@@ -4,7 +4,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/zhangxiaoyu11/XOmiVAE.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zhangxiaoyu11/XOmiVAE/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/zhangxiaoyu11/XOmiVAE.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/zhangxiaoyu11/XOmiVAE/network/members)
 
-**An interpretable deep learning model for cancer classification using high-dimensional omics data**
+**XOmiVAE: An interpretable deep learning model for cancer classification using high-dimensional omics data**
+
+**Xiaoyu Zhang** (x.zhang18@imperial.ac.uk)
+
+Data Science Institute, Imperial College London
 
 ### Introduction
 -  XOmiVAE is a novel interpretable deep learning model for cancer classification using high-dimensional omics data.
@@ -14,3 +18,5 @@
 -  XOmiVAE shows great potential for novel biomedical knowledge discovery from deep learning models.
 
 For examples of how to implement the code, see main.py. The explainable functions are in omiShapExplainer.py.
+
+Paper Link: [arXiv](https://arxiv.org/abs/2105.12807)
