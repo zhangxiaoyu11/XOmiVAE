@@ -34,5 +34,9 @@ If you use this code in your research, please cite our paper.
 }
 ```
 
+## OmiEmbed
+***Please also check our multi-task deep learning framework for multi-omics data***: 
+[OmiEmbed](https://github.com/zhangxiaoyu11/OmiEmbed)
+
 ## License
 This source code is licensed under the [MIT](https://github.com/zhangxiaoyu11/XOmiVAE/blob/main/LICENSE) license.
