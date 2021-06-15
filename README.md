@@ -24,7 +24,7 @@ Paper Link: [arXiv](https://arxiv.org/abs/2105.12807)
 ## Citation
 If you use this code in your research, please cite our paper.
 ```bibtex
-@misc{withnell2021xomivae,
+@misc{XOmiVAE2021,
       title={XOmiVAE: an interpretable deep learning model for cancer classification using high-dimensional omics data}, 
       author={Eloise Withnell and Xiaoyu Zhang and Kai Sun and Yike Guo},
       year={2021},
