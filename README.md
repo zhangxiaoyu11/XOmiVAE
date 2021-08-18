@@ -19,18 +19,19 @@ Data Science Institute, Imperial College London
 
 For examples of how to implement the code, see main.py. The explainable functions are in omiShapExplainer.py.
 
-Paper Link: [arXiv](https://arxiv.org/abs/2105.12807)
+Paper Link: [Briefings in Bioinformatics](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab315/6353242)
 
 ## Citation
 If you use this code in your research, please cite our paper.
 ```bibtex
-@misc{XOmiVAE2021,
-      title={XOmiVAE: an interpretable deep learning model for cancer classification using high-dimensional omics data}, 
-      author={Eloise Withnell and Xiaoyu Zhang and Kai Sun and Yike Guo},
-      year={2021},
-      eprint={2105.12807},
-      archivePrefix={arXiv},
-      primaryClass={q-bio.GN}
+@Article{XOmiVAE2021,
+    AUTHOR = {Withnell, Eloise and Zhang, Xiaoyu and Sun, Kai and Guo, Yike},
+    TITLE = {XOmiVAE: an interpretable deep learning model for cancer classification using high-dimensional omics data},
+    JOURNAL = {Briefings in Bioinformatics},
+    YEAR = {2021},
+    ISSN = {1477-4054},
+    DOI = {10.1093/bib/bbab315},
+    URL = {https://doi.org/10.1093/bib/bbab315},
 }
 ```
 
